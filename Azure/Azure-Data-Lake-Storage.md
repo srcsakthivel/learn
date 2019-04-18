@@ -1,9 +1,9 @@
-What is ADLS?
+## What is ADLS?
 - Azure Data Lake Storage.
 - A data lake is a repository of data that is stored in its natural format, usually as blobs or files.
 - it is a comprehensive, scalable and cost-effective solution
 
-Offers:
+## Offers:
 - combines a file system with a storage platform
 - builds on Azure Blob storage capabilities to optimize it specifically for analytics workloads
 - integration enables 
@@ -11,7 +11,7 @@ Offers:
   - the tiering and data lifecycle management capabilities of Blob storage
   - the high-availability, security, and durability capabilities of Azure Storage
   
-Benefits:
+## Benefits:
 - can deal with variety and volume of data at exabyte scale while securely handling hundreds of gigabytes of throughput
 - you can use Data Lake Storage Gen2 as the basis for both real-time and batch solutions
 - **Hadoop Distributed File System - HDFS**, access it through compute technologies including Azure Databricks, Azure HDInsight, and Azure SQL Data Warehouse without moving the data between environments
